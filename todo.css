@@ -111,3 +111,49 @@ input{
     
 }
 
+
+@media (max-width:480px) {
+
+    .todo{
+       display: flex;
+       flex-direction: column;
+       padding: 1rem;
+       align-items: center;
+       
+        
+    }
+
+    .t1{
+
+        width: 115%;
+        height: fit-content;
+        border: none;
+        border-radius: 0rem;
+        align-items: center;
+        margin-left: 2.5rem;
+        nav-up: auto;
+        
+        
+        
+    }
+
+    .t2{
+        width:100%;
+        height: fit-content;
+        margin-top: 1rem;
+        background-color: white;
+    }
+
+    h1{
+        font-size: 30px;
+    }
+
+    p{
+        width: 100%;
+        padding:0.1rem;
+        font-size: 14px;
+
+    }
+    
+}
+

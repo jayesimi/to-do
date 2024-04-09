@@ -80,7 +80,47 @@ input{
 
 
   @media (max-width:480px) {
+      main{
+        display: flex;
+        flex-direction: column;
+        height: fit-content;
+        padding: 0.6rem;
+        background-color: white;
+        transform: translateY(-7.5rem);
+      }
 
+      .login1{
+        display: none;
+        margin: 0 0 ;
+        padding: 1rem 1rem;
+      }
+
+
+      .login2{
+        width: 100%;
+      }
+
+      h1{
+        font-size: 45px;
+      }
+
+
+      input{
+        height: 7.6vh;
+        border: grey 0.6px solid;
+      }
+
+      .bm{
+        height: 7.2vh;
+      }
+
+      .b1{
+        height: 6.9vh;
+      }
+
+      .b2{
+        height: 6.9vh;
+      }
     
     
   }

@@ -127,6 +127,42 @@ a{
 
 
 
+@media (max-width:480px) {
+
+    .today{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem;
+        align-items: center;
+    }
+
+    .today1{
+        width: 115%;
+        margin-left: 2.6rem;
+    }
+
+    .today2{
+        width: 100%;
+    }
+
+
+    .today3{margin-left: 0.5rem;}
+
+    .to1{margin-bottom: 1rem;
+    
+       font-size: 35px;
+    }
+
+
+    .p1{
+        margin-top: 0.9rem;
+    }
+    
+    
+}
+
+
+
 
 
 
