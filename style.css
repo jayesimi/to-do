@@ -75,9 +75,9 @@ h1{
         flex-direction: row;
         height: fit-content;
         background: white;
-        width: 100%;
         background-repeat: no-repeat;
         padding: 0.6rem;
+        width: 100%;
 
     }
 
